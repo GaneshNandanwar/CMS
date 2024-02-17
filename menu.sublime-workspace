@@ -1,0 +1,1239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"dis",
+				"discussion"
+			],
+			[
+				"border",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"borderbo",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"bordertop",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"t",
+				"transparent\tbackground"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"mr",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"borer",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"boder",
+				"border-right-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"top",
+				"top\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"in",
+				"inline-grid\tdisplay"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"rotate",
+				"rotateZ()\ttransform"
+			],
+			[
+				"s",
+				"scale3d()\ttransform"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"fa",
+				"fa-color"
+			],
+			[
+				"si",
+				"box-sizing\tproperty"
+			],
+			[
+				"fa-",
+				"fa-color"
+			],
+			[
+				"ani",
+				"animation-duration\tproperty"
+			],
+			[
+				"r",
+				"alternate\tanimation"
+			],
+			[
+				"e",
+				"transparent\ttext-shadow"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"ro",
+				"rotate3d()\ttransform"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"x",
+				"rotateX()\ttransform"
+			],
+			[
+				"ce",
+				"clear\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Submit",
+				"SUBMIT"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"US",
+				"Username"
+			],
+			[
+				"password",
+				"Password"
+			],
+			[
+				"anim",
+				"animation\tproperty"
+			],
+			[
+				"fol",
+				"float\tproperty"
+			],
+			[
+				"animation",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"left",
+				"left\tproperty"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"p",
+				"no-drop\tcursor"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"blod",
+				"bolder\tfont-weight"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"tetx",
+				"text-transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-stretch\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"sha",
+				"text-shadow\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"CO",
+				"cover\tbackground-size"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"it",
+				"item_quantity"
+			],
+			[
+				"Ite",
+				"Itemname"
+			],
+			[
+				"conn",
+				"conn"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"incl",
+				"inclued_get_data"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"cos",
+				"cost"
+			],
+			[
+				"is",
+				"isbnno"
+			],
+			[
+				"book",
+				"bookcode"
+			],
+			[
+				"inser",
+				"insert"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "menu.php",
+			"settings":
+			{
+				"buffer_size": 10320,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 3528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2625,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 5344,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 43332,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "attendancestudentattendance.php",
+			"settings":
+			{
+				"buffer_size": 5553,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "discussion.php",
+			"settings":
+			{
+				"buffer_size": 4884,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "timetableview.php",
+			"settings":
+			{
+				"buffer_size": 6469,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dashboard.php",
+			"settings":
+			{
+				"buffer_size": 6405,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "facultyaccount.php",
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "facultychangepassword.php",
+			"settings":
+			{
+				"buffer_size": 2014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "facultyfom.php",
+			"settings":
+			{
+				"buffer_size": 7755,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "student.php",
+			"settings":
+			{
+				"buffer_size": 8775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 141662,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/project 2022/g/css/slicebox.css",
+		"/C/xampp/htdocs/project 2022/g/css/bootstrap.css",
+		"/C/xampp/htdocs/project 2022/g/css/font-awesome.css",
+		"/C/xampp/htdocs/project 2022/g/menu.php",
+		"/C/xampp/htdocs/project 2022/g/footer.php",
+		"/C/xampp/htdocs/project 2022/g/index.php",
+		"/C/xampp/htdocs/project 2022/g/css/style.css",
+		"/C/Users/dell/Videos/g/header.php",
+		"/C/xampp/htdocs/project 2022/g/studentlogin.php",
+		"/C/xampp/htdocs/project 2022/g/team.php",
+		"/C/xampp/htdocs/project 2022/g/studentaccount.php",
+		"/C/xampp/htdocs/project 2022/g/student.php",
+		"/C/xampp/htdocs/project 2022/g/services.php",
+		"/C/xampp/htdocs/project 2022/g/register.php",
+		"/C/xampp/htdocs/project 2022/g/phpmailer.php",
+		"/C/xampp/htdocs/project 2022/g/logout.php",
+		"/C/xampp/htdocs/project 2022/g/datatable.php",
+		"/C/xampp/htdocs/project 2022/g/dashboard.php",
+		"/C/xampp/htdocs/project 2022/g/course.php",
+		"/C/xampp/htdocs/project 2022/g/contactus.php",
+		"/C/xampp/htdocs/project 2022/g/attendance.php",
+		"/C/xampp/htdocs/project 2022/g/ajaxsubject.php",
+		"/C/xampp/htdocs/project 2022/g/ajaxsemester.php",
+		"/C/xampp/htdocs/project 2022/g/adminview.php",
+		"/C/xampp/htdocs/project 2022/g/adminprofile.php",
+		"/C/xampp/htdocs/project 2022/g/adminlogin.php",
+		"/C/xampp/htdocs/project 2022/g/admin.php",
+		"/C/xampp/htdocs/project 2022/g/header.php",
+		"/C/xampp/htdocs/project 2022/g/facultylogin.php",
+		"/C/xampp/htdocs/project 2022/g/viewfaculty.php",
+		"/C/xampp/htdocs/project 2022/g/studentprofile.php",
+		"/C/xampp/htdocs/project 2022/g/facultyfom.php",
+		"/C/xampp/htdocs/project 2022/g/facultyprofile.php",
+		"/C/xampp/htdocs/project 2022/g/facultyaccount.php",
+		"/C/xampp/htdocs/project 2022/g/attendanceview.php",
+		"/C/xampp/htdocs/project 2022/g/attendancestudentattendance.php",
+		"/C/xampp/htdocs/project 2022/g/mailsetting.php",
+		"/C/xampp/htdocs/project 2022/g/student",
+		"/C/xampp/htdocs/project 2022/firstpage.php",
+		"/C/xampp/htdocs/project 2022/g/aboutus.php",
+		"/C/xampp/htdocs/project 2022/about.php",
+		"/C/xampp/htdocs/D/CMIS-master/cometchat/sql.php",
+		"/C/xampp/htdocs/D/CMIS-master/includes/functions.php",
+		"/C/Users/dell/gym-management-master/header.php",
+		"/C/xampp/htdocs/nav/home.css",
+		"/C/xampp/htdocs/nav/home.html",
+		"/C/xampp/htdocs/D/D/style.css",
+		"/C/xampp/htdocs/D/D/login.php",
+		"/C/xampp/htdocs/project 2022/about.css",
+		"/E/Files are hidden by Trojan/home.php",
+		"/C/xampp/htdocs/nav/home",
+		"/C/xampp/htdocs/nav/Responsive Navbar/home.html",
+		"/C/xampp/htdocs/nav/Responsive Navbar/home.css",
+		"/C/xampp/htdocs/Responsive Navbar/index.html",
+		"/C/xampp/htdocs/project 2022/firstpage.css",
+		"/C/xampp/htdocs/D/book.php",
+		"/C/xampp/htdocs/nav/Responsive Navbar/style.css",
+		"/C/Users/dell/AppData/Local/Temp/Rar$DIa13936.31816/style.css",
+		"/C/Users/dell/AppData/Local/Temp/Rar$DIa13936.31832/style.css",
+		"/E/PHP/login.php",
+		"/C/xampp/htdocs/project 2022/login.php",
+		"/C/xampp/htdocs/project 2022/login.css",
+		"/C/xampp/htdocs/nav/Responsive Navbar/index.php",
+		"/E/PHP/Assignment/assignment-1.php",
+		"/E/PHP/home.php",
+		"/C/xampp/htdocs/nav/Responsive Navbar/login.php",
+		"/C/xampp/htdocs/nav/Responsive Navbar/index.html",
+		"/C/xampp/htdocs/project 2022/course.css",
+		"/C/xampp/htdocs/project 2022/course.php",
+		"/C/xampp/htdocs/nav/php-admin-panel-template-master/config/admin_panel.sql",
+		"/C/xampp/htdocs/nav/php-admin-panel-template-master/config/database.php",
+		"/C/xampp/htdocs/nav/php-admin-panel-template-master/index.php",
+		"/C/xampp/htdocs/project 2022/facebook.html",
+		"/C/Users/dell/OneDrive/Desktop/SEM 6/style.css",
+		"/C/xampp/htdocs/D/project/project/DRIVE/gallary.html",
+		"/F/Assignment/q1.php",
+		"/F/Assignment/q2.php",
+		"/F/Assignment/q3.php",
+		"/F/Assignment/q4.php",
+		"/F/Assignment/q5.php",
+		"/F/Assignment/q7.php",
+		"/F/Files are hidden by Trojan/php/d1.php",
+		"/F/PHP/login.php",
+		"/F/Files are hidden by Trojan/login.php",
+		"/C/xampp/htdocs/D/demo.php",
+		"/C/xampp/htdocs/D/conn.php",
+		"/C/xampp/htdocs/D/db_book.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/firstpage.css",
+		"/C/xampp/htdocs/PROJECT 2022/Login/firstpage.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/home.css",
+		"/C/xampp/htdocs/PROJECT 2022/Login/home.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/login.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/login.css",
+		"/C/xampp/htdocs/PROJECT 2022/Login/New folder/login.css",
+		"/C/xampp/htdocs/PROJECT 2022/Login/New folder/home.css",
+		"/C/xampp/htdocs/PROJECT 2022/Login/New folder/home.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/New folder/login.php",
+		"/C/xampp/htdocs/PROJECT 2022/Login/login.js",
+		"/C/xampp/htdocs/PROJECT 2022/Login/login.html",
+		"/C/Users/dell/OneDrive/Desktop/SEM 6/gym-management-master/index.php",
+		"/C/xampp/htdocs/D/count.php",
+		"/C/Users/dell/OneDrive/Desktop/SEM 6/gym-management-master/style.css",
+		"/C/xampp/htdocs/D/PROJECT 2022",
+		"/C/xampp/htdocs/D/demo.py",
+		"/C/Users/dell/OneDrive/Desktop/SEM 6/Website Demo1/Signup form.aspx",
+		"/C/xampp/htdocs/D/assignment4",
+		"/C/xampp/htdocs/PHP/assignment-3.php"
+	],
+	"find":
+	{
+		"height": 41.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav-link",
+			"nav navbar-nav link-effect",
+			"nav navbar-nav",
+			"VT Poddar Bca College",
+			"col-md-4 book-appointment",
+			"submit",
+			"\t\t</div>",
+			"$img",
+			"images/noimage.png",
+			"#toTopHove",
+			".copyright-agile p",
+			"nav navbar-nav link-effect",
+			"collapse navbar-collapse",
+			"logo.jfif",
+			"logo",
+			"col-xs-8 contact-grdr-w3l",
+			"contact-right2",
+			"fa",
+			"fa.",
+			"fa",
+			"fa-home",
+			"fa.fa-home",
+			"fa fa-home",
+			"home",
+			"fa",
+			"fa fa-home",
+			"vtp12@gmail.co",
+			".sb-description h3",
+			"dropdown",
+			"attendancestudentattendance.php",
+			"Add",
+			".book-appointment input[type=submit]:hover",
+			"@media.nav-links .navbar-nav>li>",
+			".nav-links .navbar-nav>li>a:hover",
+			"fluid",
+			"hover",
+			"h3:hover",
+			"sb-description h3:hover",
+			"1610",
+			"gray",
+			"container",
+			"mynavbar",
+			"<div class=\"collapse navbar-collapse\" id=\"myNavbar\">",
+			"<div class=\"collapse navbar-collapse\" id=\"myNavbar\">\n\t\t\t\t\t\t\t<ul class=\"nav navbar-nav link-effect\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"active\">\n\t\t\t\t\t\t\t\t\t<a href=\"index.php\">Home</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"aboutus.php\">About Us</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"studentlogin.php\">Student Login</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"student.php\">Student Registration</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"facultylogin.php\">Faculty Login</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"adminlogin.php\">Admin login</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"contactus.php\">Contact Us</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>",
+			"200px",
+			"wid",
+			"width:200px;",
+			"img",
+			"element.style",
+			"<img src=\"images/logo.jfif\" style=\"height: 60px;width: 200px;\">",
+			"<img src=\"images/AlvasCollage.jpg\" alt=\"image1\" style=\"max-width: auto; height:600px;\">",
+			"#sb-slider > li.sb-current > a > img",
+			"color:black",
+			"nav.link",
+			"vtp.png",
+			".nav-links .navbar-nav>li>a",
+			"mynavbar",
+			".nav-links .navbar-inverse .navbar-nav>.active>a, .nav-links .navbar-inverse .navbar-nav>.active>a:focus, .nav-links .navbar-inverse .navbar-nav>.active>a:hover",
+			"width-200px;",
+			"max-width: 1500px;",
+			"max-width",
+			"height:60px;",
+			"height:60px",
+			"vtp.png",
+			"black",
+			"nav navbar-nav link-effect",
+			"nav navbar-nav",
+			"nav navbar-nav link-effect",
+			"sb-description h3",
+			"h3",
+			"Login",
+			"none",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.666666666667,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1832.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1972,
+								1993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3066,
+								3066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1788,
+								1788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 9.33333333333,
+						"translation.y": 1447.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "attendancestudentattendance.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1635,
+								1635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "discussion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "timetableview.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1669,
+								1669
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 692.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6269,
+								6269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "facultyaccount.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "facultychangepassword.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "facultyfom.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1960,
+								1960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "student.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6114,
+								6114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "menu.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
